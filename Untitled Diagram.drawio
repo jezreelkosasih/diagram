@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T08:41:45.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RGML2LCiAf4VbzYCzOx9" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T01:51:24.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZyYIaVYOB5nMVfdSEMbN" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,7 +24,7 @@
         <mxCell id="aN4EpTosuZWdTkNdSvx--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aN4EpTosuZWdTkNdSvx--2" target="aN4EpTosuZWdTkNdSvx--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aN4EpTosuZWdTkNdSvx--2" value="validate_account_group_and_dept // params=(&lt;span style=&quot;background-color: rgb(255, 255, 254); font-size: 13.2px;&quot;&gt;payslip_run_id=rec.id&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 254); font-size: 13.2px;&quot;&gt;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aN4EpTosuZWdTkNdSvx--2" value="validate_account_group_and_dept // params=(&lt;span style=&quot;font-size: 13.2px;&quot;&gt;payslip_run_id=rec.id&lt;/span&gt;&lt;span style=&quot;font-size: 13.2px;&quot;&gt;)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="197.5" y="430" width="285" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aN4EpTosuZWdTkNdSvx--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="aN4EpTosuZWdTkNdSvx--6">
@@ -51,7 +51,7 @@
         <mxCell id="aN4EpTosuZWdTkNdSvx--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aN4EpTosuZWdTkNdSvx--12" target="aN4EpTosuZWdTkNdSvx--17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aN4EpTosuZWdTkNdSvx--12" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 13.2px; line-height: 17px;&quot;&gt;validate_account_move_line&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aN4EpTosuZWdTkNdSvx--12" value="&lt;div style=&quot;font-size: 13.2px; line-height: 17px;&quot;&gt;validate_account_move_line&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="197.5" y="570" width="285" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aN4EpTosuZWdTkNdSvx--14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aN4EpTosuZWdTkNdSvx--17" target="aN4EpTosuZWdTkNdSvx--0">
@@ -70,7 +70,7 @@
         <mxCell id="aN4EpTosuZWdTkNdSvx--15" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Validate Account Flow Chart&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="90" width="355" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aN4EpTosuZWdTkNdSvx--17" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 17px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;validate_account_move_lines //&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 17px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;params(payslip_run_id,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 17px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;batch_account_id, total_netto)&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aN4EpTosuZWdTkNdSvx--17" value="&lt;div style=&quot;line-height: 17px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;validate_account_move_lines //&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 17px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;params(payslip_run_id,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 17px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;batch_account_id, total_netto)&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="198.75" y="700" width="281.25" height="70" as="geometry" />
         </mxCell>
       </root>
