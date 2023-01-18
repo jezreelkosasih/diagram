@@ -1,1 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T02:35:07.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="3QGbuNxN8YmQJCYc6Heo" type="github"><diagram id="nl7pR8XASSkpunMP-cPl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-18T03:00:38.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="y8Qx87PeL8mWlxZjw9DH" type="github">
+  <diagram id="UuDjsptwpqmbSiXA63Qq" name="Page-1">
+    <mxGraphModel dx="364" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-1" value="Input" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-2" value="paysliprun_id (INT)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-3" value="_emp_id (INT)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-4" value="_userid (INT)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-5" value="_valid_from (Date)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-6" value="_valid_end (Date)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-1">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-7" value="_type (Varchar)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-1">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sz1f2lQ3bUpDNZ_DCgty-9" target="sz1f2lQ3bUpDNZ_DCgty-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="325" />
+              <mxPoint x="490" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-9" value="Process" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="275" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-10" value="INSERT INTO &quot;udf_hr_ins_payslip_input&quot;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-9">
+          <mxGeometry y="30" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-11" value="Output" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-12" value="Stored into &quot;udf_hr_ins_payslip_input&quot; function" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-11">
+          <mxGeometry y="30" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-13" value="Input" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-14" value="action_get_thr&lt;br&gt;&lt;br&gt;params:&amp;nbsp; (self&lt;span style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px; color: rgb(0, 0, 255);&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px;&quot;&gt;,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px; color: rgb(0, 0, 255);&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px;&quot;&gt;.env.uid,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px; color: rgb(0, 0, 255);&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px;&quot;&gt;.date_start,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px; color: rgb(0, 0, 255);&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px;&quot;&gt;.date_end,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.2px; color: rgb(163, 21, 21);&quot;&gt;&#39;thr&#39;)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-13">
+          <mxGeometry y="30" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-15" value="Process" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="505" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-16" value="SELECT * FROM&amp;nbsp;&lt;br&gt;&quot;udf_hr_ins_payslip_input&quot;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-15">
+          <mxGeometry y="30" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-17" value="Output" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="500" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-18" value="Running the &quot;udf_hr_ins_payslip_input&quot; function" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-17">
+          <mxGeometry y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sz1f2lQ3bUpDNZ_DCgty-14" target="sz1f2lQ3bUpDNZ_DCgty-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sz1f2lQ3bUpDNZ_DCgty-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sz1f2lQ3bUpDNZ_DCgty-4" target="sz1f2lQ3bUpDNZ_DCgty-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-31" value="Input" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="660" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-32" value="emp_id = null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-31">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-35" value="Output" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="655" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-36" value="emp_temp temporary table created" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-35">
+          <mxGeometry y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-43" value="Process" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="655" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;if emp_id = null, then the temporary table employee will be filled with the employees who are included in the payslips batches by matching the IDs&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-43">
+          <mxGeometry y="30" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-45" value="Input" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="825" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-46" value="event_type = &#39;thr&#39;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-45">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-47" value="Output" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="825" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-48" value="Data selected and forwarded to is_transfer checking." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-47">
+          <mxGeometry y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-49" value="Process" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="825" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-50" value="&lt;div style=&quot;&quot;&gt;Function will do looping selecting hr_wage_type.code of every employee in emp_temp table. &lt;b&gt;WHERE &lt;/b&gt;the hwt.code = 3010 or 3016, or 3013, or 3110 and hp.date_from = _valid_from, hp.date_to = _valid_end, hp.employee_id = rec.employee_id, and hpi.transfer_request_id != null&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-49">
+          <mxGeometry y="30" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-51" value="Additional" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="825" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sz1f2lQ3bUpDNZ_DCgty-52" value="Data selected and forwarded to is_transfer checking." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sz1f2lQ3bUpDNZ_DCgty-51">
+          <mxGeometry y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
