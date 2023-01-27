@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T02:28:48.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BY0YZeehXdWypAg5Kx5v" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T05:16:29.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aIhfFdiyVM7vndtNLpdi" version="20.8.11" type="github">
   <diagram name="Page-1" id="V6eTHTS9pnjrIF0vB3Sw">
-    <mxGraphModel dx="1006" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,43 +18,16 @@
         <mxCell id="a4CsH1NXrJx-Ktxu6O7X-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-3" target="a4CsH1NXrJx-Ktxu6O7X-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-3" value="Input data assigned to salary rules category" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-3" value="Input data assigned to salary rules" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-4" target="a4CsH1NXrJx-Ktxu6O7X-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-4" value="Salary rules category assigned into salary structure" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-6" target="a4CsH1NXrJx-Ktxu6O7X-15">
+        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="580" />
-              <mxPoint x="520" y="990" />
-            </Array>
+            <mxPoint x="410" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-6" target="a4CsH1NXrJx-Ktxu6O7X-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-6" value="Match structure&lt;br&gt;&amp;nbsp;and company?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="540" width="135" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-10" target="a4CsH1NXrJx-Ktxu6O7X-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-10" value="Remuneration" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-13" target="a4CsH1NXrJx-Ktxu6O7X-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-13" value="Employee Payslips" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="880" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-15" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="365" y="970" width="90" height="40" as="geometry" />
+        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-4" value="Salary rules assigned into salary structure" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4CsH1NXrJx-Ktxu6O7X-17" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="365" y="200" width="90" height="40" as="geometry" />
@@ -129,40 +102,17 @@
         <mxCell id="a4CsH1NXrJx-Ktxu6O7X-50" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="822" y="456" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-52" target="a4CsH1NXrJx-Ktxu6O7X-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="a4CsH1NXrJx-Ktxu6O7X-52" target="a4CsH1NXrJx-Ktxu6O7X-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="694" />
-              <mxPoint x="520" y="990" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-52" value="Match employee contract?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="654" width="135" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-53" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="735" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-54" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="459" y="666" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-55" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="554" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-57" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="359" y="619" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="a4CsH1NXrJx-Ktxu6O7X-61" value="First Time Attribute inputed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="266.25" y="140" width="287.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a4CsH1NXrJx-Ktxu6O7X-62" value="Attribute has been existed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="140" width="287.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-63" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="90" width="850" height="960" as="geometry" />
+        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-65" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="365" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4CsH1NXrJx-Ktxu6O7X-66" value="&lt;p style=&quot;line-height: 30%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Attribute has been inputed and available for calculation in remuneration&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="449.5" width="120" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
