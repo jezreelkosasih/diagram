@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T08:25:53.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ScRcnl3WCtfjjAPwD8CS" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T08:28:52.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hrfTGeSI93EwWIHSIuEG" version="21.0.2" type="github">
   <diagram name="Page-1" id="SQa0QuTdIlYeYSx1HbJA">
-    <mxGraphModel dx="1764" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,40 +30,44 @@
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-3" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="295" y="290" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="KP4hlbAn9gHZ3t0cUCAC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KP4hlbAn9gHZ3t0cUCAC-4" target="KP4hlbAn9gHZ3t0cUCAC-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-4" value="Generate Cash Proof" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KP4hlbAn9gHZ3t0cUCAC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="KP4hlbAn9gHZ3t0cUCAC-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="350" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="KP4hlbAn9gHZ3t0cUCAC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KP4hlbAn9gHZ3t0cUCAC-5" target="KP4hlbAn9gHZ3t0cUCAC-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KP4hlbAn9gHZ3t0cUCAC-5" value="Generate Bank Transfer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KP4hlbAn9gHZ3t0cUCAC-6" target="KP4hlbAn9gHZ3t0cUCAC-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-6" value="Bank Transfer Request Group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KP4hlbAn9gHZ3t0cUCAC-7" target="KP4hlbAn9gHZ3t0cUCAC-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KP4hlbAn9gHZ3t0cUCAC-7" value="Generate Bank Transfer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="470" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="KP4hlbAn9gHZ3t0cUCAC-7" value="Generate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KP4hlbAn9gHZ3t0cUCAC-8" target="KP4hlbAn9gHZ3t0cUCAC-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-8" value="Confirm" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KP4hlbAn9gHZ3t0cUCAC-10" target="KP4hlbAn9gHZ3t0cUCAC-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-10" value="Close/Generate files" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="470" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-12" value="Stop" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="480" y="750" width="100" height="40" as="geometry" />
+          <mxGeometry x="480" y="850" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-21" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="300" width="60" height="30" as="geometry" />
@@ -72,7 +76,7 @@
           <mxGeometry x="220" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KP4hlbAn9gHZ3t0cUCAC-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-10" width="840" height="930" as="geometry" />
+          <mxGeometry x="70" y="45" width="840" height="930" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
