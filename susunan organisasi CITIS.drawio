@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T03:37:59.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LwJL4oHcmv3bVNkXfCZv" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T03:44:22.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="spxtcVkDL_PouNRm3QE0" version="21.0.4" type="github">
   <diagram name="Page-1" id="A5kGC9nlVPNPbo8gEQUx">
-    <mxGraphModel dx="2072" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2614" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
             <mxPoint x="610" y="210" as="targetPoint" />
             <Array as="points">
               <mxPoint x="420" y="180" />
-              <mxPoint x="960" y="180" />
+              <mxPoint x="920" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -89,7 +89,7 @@
           <mxGeometry x="-195" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-7" value="Customer Facing Platform Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-8" value="Industrial Solution Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285" y="350" width="120" height="60" as="geometry" />
@@ -103,46 +103,46 @@
         <mxCell id="wqCEwx1Dairv-0WRMHZF-15" value="Hospitality Solution Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-115" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-16" value="IT Operation Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-16" value="Network Infrastructure Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-18" value="IT Operation Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-18" value="Service Desk &amp;amp; Support Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-20" value="IT Operation Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-20" value="Data Center &amp;amp; Cloud Service Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="wqCEwx1Dairv-0WRMHZF-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="270" as="sourcePoint" />
+            <mxPoint x="920" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wqCEwx1Dairv-0WRMHZF-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="270" as="sourcePoint" />
+            <mxPoint x="920" y="270" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="960" y="320" />
-              <mxPoint x="1120" y="320" />
+              <mxPoint x="920" y="320" />
+              <mxPoint x="1080" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wqCEwx1Dairv-0WRMHZF-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="270" as="sourcePoint" />
+            <mxPoint x="920" y="270" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="960" y="320" />
-              <mxPoint x="800" y="320" />
+              <mxPoint x="920" y="320" />
+              <mxPoint x="760" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-28" value="IT Operation Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-28" value="Marketing Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-29" value="IT Operation Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-29" value="CFP Technology Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-30" value="IT Operation Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-30" value="Product Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
