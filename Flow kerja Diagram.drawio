@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T09:22:20.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.8" etag="jIvn8oegb2tNT9xQYLNH" type="github"><diagram name="Page-1" id="g9tGDpRoGS3dgJO48hkw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-23T09:29:35.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-WlfncUhJRgqgVDU90Sx" version="21.0.8" type="github">
+  <diagram name="Page-1" id="g9tGDpRoGS3dgJO48hkw">
+    <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70ae-vwAF2dr5YIWQHD4-1" target="70ae-vwAF2dr5YIWQHD4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-1" value="Direktur CITIS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70ae-vwAF2dr5YIWQHD4-2" target="70ae-vwAF2dr5YIWQHD4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-2" value="General Manager Enterprise Solution Division" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70ae-vwAF2dr5YIWQHD4-3" target="70ae-vwAF2dr5YIWQHD4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-3" value="Manager Corporate Solution Dept." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70ae-vwAF2dr5YIWQHD4-4" target="70ae-vwAF2dr5YIWQHD4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-4" value="Senior Solution Analyst (supervisor)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70ae-vwAF2dr5YIWQHD4-6" value="Mahasiswa magang" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
