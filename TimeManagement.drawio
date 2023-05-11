@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T08:07:23.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I9A8xNxwauyfCMu77BKr" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T08:35:44.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mWxhNNovANV3yEE-sow_" version="21.2.9" type="github">
   <diagram name="Page-1" id="3nV38mSNL-lvkJdHqZnk">
     <mxGraphModel dx="1599" dy="821" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -253,6 +253,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-129" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-103" target="1xMDpH14Qbi4-UP5KBB6-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547.6666412353516" y="125.99998474121094" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="582" y="533" />
+              <mxPoint x="575" y="117" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1xMDpH14Qbi4-UP5KBB6-103" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;isApproved?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="502" width="119" height="67" as="geometry" />
         </mxCell>
@@ -299,6 +308,63 @@
         </mxCell>
         <mxCell id="1xMDpH14Qbi4-UP5KBB6-117" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Display Error&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;message&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="269.005" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-127" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-120" target="1xMDpH14Qbi4-UP5KBB6-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-133" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-120" target="1xMDpH14Qbi4-UP5KBB6-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="598" y="236" />
+              <mxPoint x="598" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-120" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;IsTimeEvent Null?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="636.44" y="190" width="149.13" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-121" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-122" target="1xMDpH14Qbi4-UP5KBB6-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-122" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Attendance Regularization Request Sent to Superior&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="651.51" y="319" width="122.76" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-123" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-124" target="1xMDpH14Qbi4-UP5KBB6-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="711.26" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-124" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Superior Response&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="655.51" y="417" width="111" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-128" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-125" target="1xMDpH14Qbi4-UP5KBB6-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="711" y="836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-130" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-125" target="1xMDpH14Qbi4-UP5KBB6-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="819" y="540" />
+              <mxPoint x="819" y="122" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-125" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;isApproved?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="651.51" y="502" width="119" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-131" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="367" y="203" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-132" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="464" y="281" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-134" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;IsTimeEvent Available :&amp;nbsp; There is no Absence, Leave, Public Holiday, non-Working Days, and Collective Leaves in the same date&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-293" y="996" width="766" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
