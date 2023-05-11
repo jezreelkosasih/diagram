@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T04:28:22.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LdYqJqgqStaC2wj8Bm0k" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T04:58:52.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JWwqSErKELU7gaGNBcfX" version="21.2.9" type="github">
   <diagram name="Page-1" id="3nV38mSNL-lvkJdHqZnk">
     <mxGraphModel dx="1194" dy="878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,6 +91,36 @@
               <mxPoint x="316" y="62" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-57" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-51" target="1xMDpH14Qbi4-UP5KBB6-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-51" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Checking Leave Balance&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="61" y="190" width="109" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;System&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="49" y="235" width="42" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-59" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-56" target="1xMDpH14Qbi4-UP5KBB6-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-56" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;LB &amp;gt; 0?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="58.75" y="269" width="113.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-61" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-58" target="1xMDpH14Qbi4-UP5KBB6-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-58" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Leave Request Sent to Superior&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60.5" y="363" width="111" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-63" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1xMDpH14Qbi4-UP5KBB6-60" target="1xMDpH14Qbi4-UP5KBB6-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-60" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Superior Response&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="61.25" y="448" width="111" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="1xMDpH14Qbi4-UP5KBB6-62" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-18.75" y="534" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
