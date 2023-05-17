@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T03:46:34.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Xm_AEdANOpvf3b-MGJex" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T03:47:47.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Rj-wDBRq22l7LUdPFJ3B" version="21.2.9" type="github">
   <diagram name="Page-1" id="NCHEDFaTNdQXQWnGJUuj">
     <mxGraphModel dx="1034" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -254,6 +254,12 @@
             <mxPoint x="118.75999999999999" y="80" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="auxzIFHcxL0lGf6k54Ho-74" value="Generate Bank Transfer Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="900" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="auxzIFHcxL0lGf6k54Ho-75" value="Generate Bank Transfer Request Group&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="840" y="860" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
