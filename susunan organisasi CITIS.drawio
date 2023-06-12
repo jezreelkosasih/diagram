@@ -1,148 +1,142 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T03:45:13.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sP9Vs9dvmvbnpCU-UaIK" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T08:01:31.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kDQJ94NEErwdcd1aWf8J" version="21.3.8" type="github">
   <diagram name="Page-1" id="A5kGC9nlVPNPbo8gEQUx">
-    <mxGraphModel dx="2614" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1903" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-2">
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-1" value="Corporate IT &amp;amp; IS Director" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#7ea6e0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-2" value="IT Operation Division General Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="345" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-5">
+        <mxCell id="1DSwFevna6ADI5QcPYFj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="320" />
+              <mxPoint x="-25" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DSwFevna6ADI5QcPYFj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="320" />
+              <mxPoint x="81" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DSwFevna6ADI5QcPYFj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="320" />
+              <mxPoint x="186" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-5" value="Enterprise Solution Division General Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="180" />
-              <mxPoint x="-135" y="180" />
+              <mxPoint x="405" y="180" />
+              <mxPoint x="40" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-7">
+        <mxCell id="1DSwFevna6ADI5QcPYFj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-7" target="wqCEwx1Dairv-0WRMHZF-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1DSwFevna6ADI5QcPYFj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-7" target="wqCEwx1Dairv-0WRMHZF-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-7" value="Customer Facing Platform Division General Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="642.5" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="180" />
-              <mxPoint x="920" y="180" />
+              <mxPoint x="405" y="180" />
+              <mxPoint x="703" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-1" value="Corporate IT &amp;amp; IS Director" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-8" value="Industrial Solution Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="350" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-11" value="Corporate Solution Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="350" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-18">
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="135" y="320" />
+              <mxPoint x="-105" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-13" value="Enterprise Technology Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="137" y="350" width="97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-15" value="Hospitality Solution Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="31" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-16" value="Network Infrastructure Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="350" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="320" />
-              <mxPoint x="580" y="320" />
+              <mxPoint x="405" y="330" />
+              <mxPoint x="405" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-20">
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-18" value="Service Desk &amp;amp; Support Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="455" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="320" />
-              <mxPoint x="260" y="320" />
+              <mxPoint x="405" y="320" />
+              <mxPoint x="505" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-2" value="IT Operation Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-20" value="Data Center &amp;amp; Cloud Service Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="245" y="350" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-8">
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-25" y="320" />
-              <mxPoint x="-125" y="320" />
+              <mxPoint x="405" y="320" />
+              <mxPoint x="295" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-11">
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1" target="wqCEwx1Dairv-0WRMHZF-28" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-185" y="340" as="targetPoint" />
+            <mxPoint x="703" y="270" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-25" y="320" />
-              <mxPoint x="-265" y="320" />
+              <mxPoint x="703" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-135" y="320" />
-              <mxPoint x="85" y="320" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-28" value="Marketing Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="655" y="350" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="25" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-135" y="320" />
-              <mxPoint x="-55" y="320" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-29" value="CFP Technology Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="754" y="350" width="96" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-5" value="Enterprise Solution Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-7" value="Customer Facing Platform Division General Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="860" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-8" value="Industrial Solution Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-285" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-11" value="Corporate Solution Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-13" value="Enterprise Technology Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="25" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-15" value="Hospitality Solution Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-16" value="Network Infrastructure Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-18" value="Service Desk &amp;amp; Support Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-20" value="Data Center &amp;amp; Cloud Service Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="wqCEwx1Dairv-0WRMHZF-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="270" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wqCEwx1Dairv-0WRMHZF-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="270" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="920" y="320" />
-              <mxPoint x="1080" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wqCEwx1Dairv-0WRMHZF-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="270" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="920" y="320" />
-              <mxPoint x="760" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-28" value="Marketing Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="860" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-29" value="CFP Technology Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wqCEwx1Dairv-0WRMHZF-30" value="Product Dept. Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="700" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="wqCEwx1Dairv-0WRMHZF-30" value="Product Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="561" y="350" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
