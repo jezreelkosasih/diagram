@@ -1,137 +1,137 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T08:18:27.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xh4MGfd48W9hxGYAOenq" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T08:20:05.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MhaaajeRdbl3if-LZMDN" version="21.3.8" type="github">
   <diagram name="Page-1" id="A5kGC9nlVPNPbo8gEQUx">
     <mxGraphModel dx="1903" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1DSwFevna6ADI5QcPYFj-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-20" y="30" width="870" height="710" as="geometry" />
+          <mxGeometry x="-80" y="30" width="930" height="770" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-1" value="Corporate IT &amp;amp; IS Director" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#7ea6e0;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="434.99999999999994" width="143.01369863013696" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="464.9999999999999" width="152.87671232876707" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-2" value="IT Operation Division General Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#ffa500;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="434.99999999999994" y="484.6031746031746" width="143.01369863013696" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="464.9999999999999" y="525.5555555555555" width="152.87671232876707" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-5" value="Enterprise Solution Division General Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#ffa500;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="190.6849315068493" y="146.5079365079365" width="143.01369863013696" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="203.83561643835614" y="158.8888888888889" width="152.87671232876707" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="297.94520547945206" y="157.77777777777777" as="targetPoint" />
+            <mxPoint x="318.4931506849315" y="171.11111111111111" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="506.5068493150684" y="123.96825396825396" />
-              <mxPoint x="262.1917808219178" y="123.96825396825396" />
+              <mxPoint x="541.4383561643834" y="134.44444444444446" />
+              <mxPoint x="280.2739726027397" y="134.44444444444446" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-7" value="Customer Facing Platform Division General Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#ffa500;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="622.7054794520548" y="157.77777777777777" width="143.01369863013696" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="665.6506849315068" y="171.11111111111111" width="152.87671232876707" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-1" target="wqCEwx1Dairv-0WRMHZF-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750.821917808219" y="157.77777777777777" as="targetPoint" />
+            <mxPoint x="802.6027397260272" y="171.11111111111111" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="506.5068493150684" y="123.96825396825396" />
-              <mxPoint x="694.808219178082" y="123.96825396825396" />
+              <mxPoint x="541.4383561643834" y="134.44444444444446" />
+              <mxPoint x="742.72602739726" y="134.44444444444446" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-8" value="Industrial Solution Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="125.13698630136984" y="315.55555555555554" width="119.1780821917808" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="133.7671232876712" y="342.22222222222223" width="127.39726027397258" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="1DSwFevna6ADI5QcPYFj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="262.1917808219178" y="281.7460317460317" />
-              <mxPoint x="184.72602739726025" y="281.7460317460317" />
+              <mxPoint x="280.2739726027397" y="305.55555555555554" />
+              <mxPoint x="197.4657534246575" y="305.55555555555554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-11" value="Corporate Solution Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry y="315.55555555555554" width="119.1780821917808" height="67.61904761904762" as="geometry" />
+          <mxGeometry y="342.22222222222223" width="127.39726027397258" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="184.72602739726025" y="304.2857142857143" as="targetPoint" />
+            <mxPoint x="197.4657534246575" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="375.4109589041095" y="281.7460317460317" />
-              <mxPoint x="89.3835616438356" y="281.7460317460317" />
+              <mxPoint x="401.3013698630136" y="305.55555555555554" />
+              <mxPoint x="95.54794520547944" y="305.55555555555554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-13" value="Enterprise Technology Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="377.7945205479451" y="315.55555555555554" width="115.60273972602738" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="403.849315068493" y="342.22222222222223" width="123.5753424657534" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="1DSwFevna6ADI5QcPYFj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="262.1917808219178" y="281.7460317460317" />
-              <mxPoint x="436.19178082191775" y="281.7460317460317" />
+              <mxPoint x="280.2739726027397" y="305.55555555555554" />
+              <mxPoint x="466.2739726027396" y="305.55555555555554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-15" value="Hospitality Solution Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="251.4657534246575" y="315.55555555555554" width="119.1780821917808" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="268.80821917808214" y="342.22222222222223" width="127.39726027397258" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-16" value="Network Infrastructure Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="440.95890410958896" y="642.3809523809523" width="119.1780821917808" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="471.3698630136985" y="696.6666666666666" width="127.39726027397258" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="506.5068493150684" y="619.8412698412699" />
-              <mxPoint x="506.5068493150684" y="619.8412698412699" />
+              <mxPoint x="541.4383561643834" y="672.2222222222223" />
+              <mxPoint x="541.4383561643834" y="672.2222222222223" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-18" value="Service Desk &amp;amp; Support Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="566.0958904109589" y="642.3809523809523" width="119.1780821917808" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="605.1369863013698" y="696.6666666666666" width="127.39726027397258" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="506.5068493150684" y="608.5714285714286" />
-              <mxPoint x="625.6849315068492" y="608.5714285714286" />
+              <mxPoint x="541.4383561643834" y="660" />
+              <mxPoint x="668.835616438356" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-20" value="Data Center &amp;amp; Cloud Service Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="315.82191780821915" y="642.3809523809523" width="119.1780821917808" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="337.6027397260273" y="696.6666666666666" width="127.39726027397258" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-2" target="wqCEwx1Dairv-0WRMHZF-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="506.5068493150684" y="608.5714285714286" />
-              <mxPoint x="375.4109589041095" y="608.5714285714286" />
+              <mxPoint x="541.4383561643834" y="660" />
+              <mxPoint x="401.3013698630136" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1" parent="1DSwFevna6ADI5QcPYFj-13" target="wqCEwx1Dairv-0WRMHZF-28" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="694.808219178082" y="225.3968253968254" as="sourcePoint" />
+            <mxPoint x="742.72602739726" y="244.44444444444446" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="694.808219178082" y="225.3968253968254" />
+              <mxPoint x="742.72602739726" y="244.44444444444446" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-28" value="Marketing Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="637.6027397260273" y="315.55555555555554" width="113.21917808219177" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="681.5753424657532" y="342.22222222222223" width="121.02739726027396" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-29" value="CFP Technology Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="755.5890410958903" y="315.55555555555554" width="114.41095890410958" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="807.698630136986" y="342.22222222222223" width="122.30136986301368" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="wqCEwx1Dairv-0WRMHZF-30" value="Product Dept. Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;container=0;strokeWidth=2;fontSize=13;labelBackgroundColor=none;fontStyle=1;gradientColor=#97d077;" parent="1DSwFevna6ADI5QcPYFj-13" vertex="1">
-          <mxGeometry x="524.3835616438356" y="315.55555555555554" width="108.45205479452054" height="67.61904761904762" as="geometry" />
+          <mxGeometry x="560.5479452054794" y="342.22222222222223" width="115.93150684931504" height="73.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="1DSwFevna6ADI5QcPYFj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1DSwFevna6ADI5QcPYFj-13" source="wqCEwx1Dairv-0WRMHZF-5" target="wqCEwx1Dairv-0WRMHZF-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="262.1917808219178" y="281.7460317460317" />
-              <mxPoint x="311.05479452054794" y="281.7460317460317" />
+              <mxPoint x="280.2739726027397" y="305.55555555555554" />
+              <mxPoint x="332.50684931506845" y="305.55555555555554" />
             </Array>
           </mxGeometry>
         </mxCell>
