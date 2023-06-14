@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T04:39:33.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WTwGl1jqwunhHpeZyrOn" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T04:42:32.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="M-Tv09J6w2zaxViGLV3G" version="21.3.8" type="github">
   <diagram name="Page-1" id="j_QNqozHiaCTX_nJ5YU7">
     <mxGraphModel dx="1114" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,11 +22,20 @@
         <mxCell id="LZuA7bpW6MxhRtyOJ7z8-3" value="Karyawan C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="262" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZuA7bpW6MxhRtyOJ7z8-4" target="LZuA7bpW6MxhRtyOJ7z8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LZuA7bpW6MxhRtyOJ7z8-4" value="Transaksi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="190" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZuA7bpW6MxhRtyOJ7z8-6" target="LZuA7bpW6MxhRtyOJ7z8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LZuA7bpW6MxhRtyOJ7z8-6" value="Transaksi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="226" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZuA7bpW6MxhRtyOJ7z8-7" target="LZuA7bpW6MxhRtyOJ7z8-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LZuA7bpW6MxhRtyOJ7z8-7" value="Transaksi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="262" width="90" height="30" as="geometry" />
@@ -43,8 +52,23 @@
             <mxPoint x="410" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-11" value="Lifepack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-11" value="Lifepack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="173.5" width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZuA7bpW6MxhRtyOJ7z8-14" target="LZuA7bpW6MxhRtyOJ7z8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-14" value="API Lifepack &lt;br&gt;to Odoo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="216" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZuA7bpW6MxhRtyOJ7z8-18" target="LZuA7bpW6MxhRtyOJ7z8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-18" value="Authentication User HR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="211" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZuA7bpW6MxhRtyOJ7z8-20" value="Odoo Medical Reimbursement system" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="211" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
