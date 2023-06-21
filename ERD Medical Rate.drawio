@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T09:24:45.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qnVF5wK2FB-li9p9cfpx" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T09:25:41.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XXuDnEqiiyl1SIKbAOk6" version="21.5.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="412" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1114" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6aJ_woeiXj7KVQJrhbrG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6aJ_woeiXj7KVQJrhbrG-1" target="6aJ_woeiXj7KVQJrhbrG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aJ_woeiXj7KVQJrhbrG-1" value="Bplan (product.product)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aJ_woeiXj7KVQJrhbrG-1" value="Bplan (product.product)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6aJ_woeiXj7KVQJrhbrG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6aJ_woeiXj7KVQJrhbrG-2" target="6aJ_woeiXj7KVQJrhbrG-4">
@@ -22,13 +22,13 @@
         <mxCell id="6aJ_woeiXj7KVQJrhbrG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6aJ_woeiXj7KVQJrhbrG-2" target="6aJ_woeiXj7KVQJrhbrG-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aJ_woeiXj7KVQJrhbrG-2" value="Medical Rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aJ_woeiXj7KVQJrhbrG-2" value="Medical Rate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6aJ_woeiXj7KVQJrhbrG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aJ_woeiXj7KVQJrhbrG-4" target="6aJ_woeiXj7KVQJrhbrG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aJ_woeiXj7KVQJrhbrG-4" value="Medical Category" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aJ_woeiXj7KVQJrhbrG-4" value="Medical Category" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6aJ_woeiXj7KVQJrhbrG-8" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -48,13 +48,13 @@
             <mxPoint x="400" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6aJ_woeiXj7KVQJrhbrG-13" value="Management Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aJ_woeiXj7KVQJrhbrG-13" value="Management Group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6aJ_woeiXj7KVQJrhbrG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aJ_woeiXj7KVQJrhbrG-15" target="6aJ_woeiXj7KVQJrhbrG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aJ_woeiXj7KVQJrhbrG-15" value="Medical Class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aJ_woeiXj7KVQJrhbrG-15" value="Medical Class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="280" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6aJ_woeiXj7KVQJrhbrG-19" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
