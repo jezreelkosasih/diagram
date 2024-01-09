@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T15:56:45.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iNuy04fsR-H28F1oAeQR" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-09T16:02:14.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="y0N8GB9mz26sTYtONd8b" version="22.1.17" type="github" pages="3">
   <diagram name="Page-1" id="iUGwNHMRtoxu_IhdwhFb">
     <mxGraphModel dx="1964" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
         <mxCell id="aXeCUuD0160wh5VJdn8I-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-8" target="aXeCUuD0160wh5VJdn8I-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aXeCUuD0160wh5VJdn8I-8" value="Calculate the input of KPI Achievement,&lt;br&gt;behavior, and Penalti" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="aXeCUuD0160wh5VJdn8I-8" value="Calculate the gap of request level and user input" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aXeCUuD0160wh5VJdn8I-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-10" target="aXeCUuD0160wh5VJdn8I-4">
