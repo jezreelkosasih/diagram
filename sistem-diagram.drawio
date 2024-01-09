@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T16:02:14.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="y0N8GB9mz26sTYtONd8b" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-09T16:17:22.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g2cnCXxVeWGOV-Ny3hg7" version="22.1.17" type="github" pages="3">
   <diagram name="Page-1" id="iUGwNHMRtoxu_IhdwhFb">
     <mxGraphModel dx="1964" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
         <mxCell id="aXeCUuD0160wh5VJdn8I-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-8" target="aXeCUuD0160wh5VJdn8I-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aXeCUuD0160wh5VJdn8I-8" value="Calculate the gap of request level and user input" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="aXeCUuD0160wh5VJdn8I-8" value="Calculate the gap of request level and user input&lt;br&gt;(req level - input)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aXeCUuD0160wh5VJdn8I-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-10" target="aXeCUuD0160wh5VJdn8I-4">
@@ -280,8 +280,8 @@
         <mxCell id="aXeCUuD0160wh5VJdn8I-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-13" target="aXeCUuD0160wh5VJdn8I-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aXeCUuD0160wh5VJdn8I-13" value="Display calculated &lt;br&gt;value of KPI,&lt;br&gt;&amp;nbsp;Behavior, Penalti&lt;br&gt;&amp;nbsp;on the final table" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="-70" width="145" height="90" as="geometry" />
+        <mxCell id="aXeCUuD0160wh5VJdn8I-13" value="Display calculated &lt;br&gt;gap on gap column" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="-70" width="147.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aXeCUuD0160wh5VJdn8I-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-15" target="aXeCUuD0160wh5VJdn8I-23">
           <mxGeometry relative="1" as="geometry" />
@@ -289,39 +289,17 @@
         <mxCell id="aXeCUuD0160wh5VJdn8I-15" value="Save User input&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aXeCUuD0160wh5VJdn8I-16" value="kpi_responses" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-80" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aXeCUuD0160wh5VJdn8I-17" value="pa_responses" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aXeCUuD0160wh5VJdn8I-17" value="cga_responses" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="425" y="30" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aXeCUuD0160wh5VJdn8I-18" value="penalti_&lt;br&gt;responses" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="425" y="140" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aXeCUuD0160wh5VJdn8I-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-15" target="aXeCUuD0160wh5VJdn8I-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="80" />
-              <mxPoint x="370" y="-40" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="aXeCUuD0160wh5VJdn8I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.03;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-15" target="aXeCUuD0160wh5VJdn8I-17">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aXeCUuD0160wh5VJdn8I-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aXeCUuD0160wh5VJdn8I-15" target="aXeCUuD0160wh5VJdn8I-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="80" />
-              <mxPoint x="370" y="191" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="aXeCUuD0160wh5VJdn8I-22" value="Save" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="316" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aXeCUuD0160wh5VJdn8I-23" value="stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="200" width="105" height="50" as="geometry" />
+          <mxGeometry x="212.5" y="160" width="105" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
