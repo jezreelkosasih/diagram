@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T15:18:15.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8_sl-CDA5goR_RPXROMd" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-09T15:23:20.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oPjJ0WQ_iYCRUq9t-OmX" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="iUGwNHMRtoxu_IhdwhFb">
     <mxGraphModel dx="1964" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -171,8 +171,8 @@
         <mxCell id="aS4HdFmh5ScdW2xpMLQr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aS4HdFmh5ScdW2xpMLQr-2" target="aS4HdFmh5ScdW2xpMLQr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aS4HdFmh5ScdW2xpMLQr-2" value="Display&lt;br&gt;KPI, Behavior,&lt;br&gt;Penalti, and &lt;br&gt;final table" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-360" width="130" height="70" as="geometry" />
+        <mxCell id="aS4HdFmh5ScdW2xpMLQr-2" value="Display&lt;br&gt;KPI, Behavior,&lt;br&gt;Penalti, and &lt;br&gt;final table indicators" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-360" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aS4HdFmh5ScdW2xpMLQr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aS4HdFmh5ScdW2xpMLQr-6" target="aS4HdFmh5ScdW2xpMLQr-10">
           <mxGeometry relative="1" as="geometry" />
@@ -180,8 +180,23 @@
         <mxCell id="aS4HdFmh5ScdW2xpMLQr-6" value="User input form&lt;br&gt;KPI, Behavior,&lt;br&gt;Penalti" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aS4HdFmh5ScdW2xpMLQr-10" value="Calculate the input&amp;nbsp; of&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="aS4HdFmh5ScdW2xpMLQr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aS4HdFmh5ScdW2xpMLQr-10" target="aS4HdFmh5ScdW2xpMLQr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4HdFmh5ScdW2xpMLQr-10" value="Calculate the input of KPI Achievement,&lt;br&gt;behavior, and Penalti" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4HdFmh5ScdW2xpMLQr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aS4HdFmh5ScdW2xpMLQr-12" target="aS4HdFmh5ScdW2xpMLQr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4HdFmh5ScdW2xpMLQr-12" value="Questions" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-360" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4HdFmh5ScdW2xpMLQr-14" value="Loading" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="-353" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aS4HdFmh5ScdW2xpMLQr-15" value="Display calculated &lt;br&gt;value of KPI,&lt;br&gt;&amp;nbsp;Behavior, Penalti&lt;br&gt;&amp;nbsp;on the final table" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="-70" width="145" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
