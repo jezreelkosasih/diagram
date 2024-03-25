@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T07:18:47.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IjmDLHpm0CpIDf5ARdps" version="24.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-25T10:43:54.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S5dIozFSDfs1p-eYVxxz" version="24.0.8" type="github" pages="2">
   <diagram name="Page-1" id="bElfAJ916uNWT5C03lzp">
     <mxGraphModel dx="1723" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
         <mxCell id="4dFGKcJAn1um0_q6i1bH-8" value="Uji coba data latih dan data uji terhadap model Machine Learning yang telah dibangun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4dFGKcJAn1um0_q6i1bH-10" value="Penyusunan Laporan hasil penelitian Skripsi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-10" value="Penyusunan laporan hasil penelitian Skripsi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="680" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4dFGKcJAn1um0_q6i1bH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4dFGKcJAn1um0_q6i1bH-14" target="4dFGKcJAn1um0_q6i1bH-12">
