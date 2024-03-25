@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T07:13:26.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ktc81C_OlyL1LfMukm4h" version="24.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-25T07:18:47.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IjmDLHpm0CpIDf5ARdps" version="24.0.8" type="github" pages="2">
   <diagram name="Page-1" id="bElfAJ916uNWT5C03lzp">
     <mxGraphModel dx="1723" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -188,6 +188,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4dFGKcJAn1um0_q6i1bH-4" target="4dFGKcJAn1um0_q6i1bH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-1" value="Studi Literatur&lt;br&gt;Levenshtein Distance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4dFGKcJAn1um0_q6i1bH-2" target="4dFGKcJAn1um0_q6i1bH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-2" value="Pengumpulan data kata tidak baku dan kata baku dengan sumber KBBI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4dFGKcJAn1um0_q6i1bH-1" target="4dFGKcJAn1um0_q6i1bH-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="140" as="sourcePoint" />
+            <mxPoint x="410" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-4" value="Pengumpulan data artikel berita Tribun sebanyak 1000 artikel sebagai data latih dan data uji" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4dFGKcJAn1um0_q6i1bH-6" target="4dFGKcJAn1um0_q6i1bH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-6" value="Pembuatan model Machine Learning menggunakan algoritma Levenshtein Distance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4dFGKcJAn1um0_q6i1bH-12" target="4dFGKcJAn1um0_q6i1bH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-8" value="Uji coba data latih dan data uji terhadap model Machine Learning yang telah dibangun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-10" value="Penyusunan Laporan hasil penelitian Skripsi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4dFGKcJAn1um0_q6i1bH-14" target="4dFGKcJAn1um0_q6i1bH-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-12" value="Implementasi model machine learning ke aplikasi website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4dFGKcJAn1um0_q6i1bH-8" target="4dFGKcJAn1um0_q6i1bH-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="490" as="sourcePoint" />
+            <mxPoint x="410" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4dFGKcJAn1um0_q6i1bH-14" value="Evaluasi hasil uji coba" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
