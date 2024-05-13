@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T13:10:26.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fVgkCwsREIB9RSmUJjVU" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T13:12:47.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Umg76OLmG3XBCu6OePM4" version="24.2.1" type="github">
   <diagram name="Page-1" id="gPnPxGPBOq06z64sH9ZT">
     <mxGraphModel dx="934" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="5K_x0z57HTdzbEpRqYX4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5K_x0z57HTdzbEpRqYX4-38" target="5K_x0z57HTdzbEpRqYX4-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5K_x0z57HTdzbEpRqYX4-38" value="Replace word to baku_word" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5K_x0z57HTdzbEpRqYX4-38" value="Replace word to baku_word&lt;div&gt;word = baku_word&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5K_x0z57HTdzbEpRqYX4-40" value="Arrange the sentence with replaced baku words" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -147,6 +147,18 @@
         </mxCell>
         <mxCell id="5K_x0z57HTdzbEpRqYX4-63" value="Arrange the sentence with original word" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5K_x0z57HTdzbEpRqYX4-66" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="558" y="211" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K_x0z57HTdzbEpRqYX4-67" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="154" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K_x0z57HTdzbEpRqYX4-68" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="328" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5K_x0z57HTdzbEpRqYX4-69" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641" y="263" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
