@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T06:52:14.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qI58uFjxK5CaYvzQ13u8" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T06:54:01.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ffBJLZ8Fow9VcZePHVIK" version="24.4.7" type="github">
   <diagram name="Page-1" id="zBZalj7EQaK3liV51UkS">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,8 +28,38 @@
         <mxCell id="qHBc_00MWYtKfxnUTtoW-6" value="Membuat codingan preprocessing dengan regex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-8" target="qHBc_00MWYtKfxnUTtoW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-8" value="Regex memilah tanda spasi, tanda baca, untuk memisahkan kata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-10" target="qHBc_00MWYtKfxnUTtoW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-10" value="Membuatnya dalam bentuk array" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-12" target="qHBc_00MWYtKfxnUTtoW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-12" value="Model LD menggunakan fuzzywuzzy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-14" target="qHBc_00MWYtKfxnUTtoW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-14" value="Pengecekan similarity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-16" target="qHBc_00MWYtKfxnUTtoW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-16" value="Jika similarity = 100 (terhadap kata tidak baku), maka replace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-18" value="Gabungkan kembali semua kata, lalu print output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
