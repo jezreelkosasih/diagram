@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T05:11:35.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tpnIGSbXY67FkR_ZhZwM" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T05:13:58.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8h2GRczVymucn9-kQ-xw" version="24.4.7" type="github">
   <diagram name="Page-1" id="zBZalj7EQaK3liV51UkS">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,12 +26,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-6" value="Membuat codingan preprocessing dengan regex menggunakan library re" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="360" width="130" height="70" as="geometry" />
+          <mxGeometry x="130" y="360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-8" target="qHBc_00MWYtKfxnUTtoW-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qHBc_00MWYtKfxnUTtoW-8" value="Regex memilah tanda spasi, tanda baca, untuk memisahkan kata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-8" value="Regex melakukan tokenisasi dengan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-10" target="qHBc_00MWYtKfxnUTtoW-12">
