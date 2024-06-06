@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T07:32:44.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yWKCsJ2E226VFMS5gcxf" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T05:10:54.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_0f_9Cj5-r3t6Ov8fGv9" version="24.4.7" type="github">
   <diagram name="Page-1" id="zBZalj7EQaK3liV51UkS">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,59 +7,59 @@
         <mxCell id="qHBc_00MWYtKfxnUTtoW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-1" target="qHBc_00MWYtKfxnUTtoW-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qHBc_00MWYtKfxnUTtoW-1" value="Crawling data&amp;nbsp;&lt;div&gt;manual di KBBI online&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-1" value="Crawling data&amp;nbsp;&lt;div&gt;manual pada website KBBI online&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="60" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-2" target="qHBc_00MWYtKfxnUTtoW-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qHBc_00MWYtKfxnUTtoW-2" value="Membuat pair kata baku dan kata tidak baku" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-2" value="Membuat dataset pair kata baku dan bentuk kata tidak bakunya dalam file csv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="150" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-4" target="qHBc_00MWYtKfxnUTtoW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qHBc_00MWYtKfxnUTtoW-4" value="Validasi ke pakar bahasa Indonesia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-4" value="Validasi ke pakar bahasa Indonesia yaitu Dr. Niknik Mediyawati,S.Pd.,M.Hum.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="250" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-6" target="qHBc_00MWYtKfxnUTtoW-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qHBc_00MWYtKfxnUTtoW-6" value="Membuat codingan preprocessing dengan regex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="qHBc_00MWYtKfxnUTtoW-6" value="Membuat codingan preprocessing dengan regex menggunakan library re" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="360" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-8" target="qHBc_00MWYtKfxnUTtoW-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-8" value="Regex memilah tanda spasi, tanda baca, untuk memisahkan kata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-10" target="qHBc_00MWYtKfxnUTtoW-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-10" value="Membuatnya dalam bentuk array" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-12" target="qHBc_00MWYtKfxnUTtoW-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-12" value="Model LD menggunakan fuzzywuzzy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-14" target="qHBc_00MWYtKfxnUTtoW-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-14" value="Pengecekan similarity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHBc_00MWYtKfxnUTtoW-16" target="qHBc_00MWYtKfxnUTtoW-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-16" value="Jika similarity = 100 (terhadap kata tidak baku), maka replace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qHBc_00MWYtKfxnUTtoW-18" value="Gabungkan kembali semua kata, lalu print output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
